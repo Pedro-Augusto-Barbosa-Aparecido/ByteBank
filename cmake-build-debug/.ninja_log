@@ -1,0 +1,19 @@
+# ninja log v5
+4	733	7179059730284912	CMakeFiles/ByteBankCLion.dir/main.cpp.obj	4bdc9c75290c0c55
+1	268	7179060568673717	build.ninja	a7e6cf75e9b5d95b
+8	1369	7179011013607840	CMakeFiles/ByteBankCLion.dir/Person.cpp.obj	f57c702bcf0c2e72
+24	1007	7179056903567563	CMakeFiles/ByteBankCLion.dir/Cashier.cpp.obj	41d4b2be610ae37b
+12	845	7179011008107467	CMakeFiles/ByteBankCLion.dir/Cpf.cpp.obj	71457b232f64e804
+1007	2013	7179056913733542	CMakeFiles/ByteBankCLion.dir/Employee.cpp.obj	d9c67f14e590d921
+1351	2368	7179040164395847	CMakeFiles/ByteBankCLion.dir/Autheticable.cpp.obj	497b90a8eded98e2
+24	2029	7179059425881689	CMakeFiles/ByteBankCLion.dir/SavingsAccount.cpp.obj	a635ac2655dad5ed
+1176	2203	7179056915778508	CMakeFiles/ByteBankCLion.dir/Holder.cpp.obj	916a3923fbdebfdb
+2014	2739	7179056921142974	CMakeFiles/ByteBankCLion.dir/Manager.cpp.obj	42fc5763f805724d
+14	2069	7179059426413388	CMakeFiles/ByteBankCLion.dir/CheckingAccount.cpp.obj	5d5ef7809385aa6d
+2164	3046	7179046035245432	CMakeFiles/ByteBankCLion.dir/Account.cpp.obj	17edf0cbc9bb9d23
+3046	3214	7179046036882644	ByteBankCLion.exe	959bd1c516ad2d70
+15	1042	7179060909796545	CMakeFiles/ByteBankCLion.dir/Account.cpp.obj	17edf0cbc9bb9d23
+11	915	7179061438249310	CMakeFiles/ByteBankCLion.dir/CheckingAccount.cpp.obj	5d5ef7809385aa6d
+18	916	7179061438259318	CMakeFiles/ByteBankCLion.dir/SavingsAccount.cpp.obj	a635ac2655dad5ed
+7	894	7179061748813923	CMakeFiles/ByteBankCLion.dir/main.cpp.obj	4bdc9c75290c0c55
+894	1081	7179061750633871	ByteBankCLion.exe	959bd1c516ad2d70
